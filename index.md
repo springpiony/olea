@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Оглавление
 
-You can use the [editor on GitHub](https://github.com/springpiony/olea/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. [Анализы кала](https://github.com/springpiony/medicine/blob/main/README.md#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%8B-%D0%BA%D0%B0%D0%BB%D0%B0)
+2. [Анализы мочи](https://github.com/springpiony/medicine#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%8B-%D0%BC%D0%BE%D1%87%D0%B8)
+3. [Общий анализ](https://github.com/springpiony/medicine#%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7)
+4. [Биохимический анализ](https://github.com/springpiony/medicine#%D0%B1%D0%B8%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+---
+### Анализы кала
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+| Признаки  | Значения |
+| ------------- | ------------- |
+| Низкая кислотность кала  | Грибы, разжижженный стул  |
+| Высокая кислотность кала | Бактерии, гнилостые бактерии(>>запор) |
+|Светлый стул | Характерен при наличии гнилистых бактерий  |
+|Темный стул | Характерен при застои желчи и плохой микрофлоре толстого/тонкого кишечника  |
 
-- Bulleted
-- List
+Низкая кислотность кала 
+---
+### Анализы мочи
 
-1. Numbered
-2. List
+---
+### Общий анализ
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/springpiony/olea/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+### Биохимический анализ
